@@ -1,0 +1,4 @@
+testmanifix
+===========
+
+man
